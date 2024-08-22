@@ -1,1 +1,2 @@
-# Mitron-Bank
+- Mitron Bank, a reputable financial institution, aimed to expand its market presence by launching a new line of credit cards.
+- To support this initiative a sample dataset of 4,000 customers from five different cities, including detailed information on their spending and other relevant data was provided.
