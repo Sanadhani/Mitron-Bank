@@ -1,0 +1,23 @@
+# Situation
+  Mitron Bank, an established financial institution based in Hyderabad, needed to introduce a new line of credit cards to expand its product range and market reach. To achieve this, they provided a sample 
+  dataset of 4000 customers from five cities, detailing their online spending and other relevant information.
+
+# Task
+  The task was to analyse the spending patterns of these customers over a six-month period, from May to October, to understand their payment preferences, demographic influences on spending, and geographical 
+  spending trends. This analysis would help Mitron Bank tailor their new credit card offerings to meet the specific needs and behaviours of their target market.
+
+# Action
+ 1. Data Collection and Analysis: Collected and examined the spending data of 4000 customers across Mumbai, Hyderabad, Delhi, Chennai, and Bengaluru.
+ 2. Spending Trends: Monitored and recorded the total expenditure, noting that approximately 531 million was spent over six months. Identified September as the month with the highest spending (116 million) 
+    and May with the lowest (68 million).
+ 3. Payment Methods: Analysed the preferred modes of payment, finding credit cards and UPI transactions as the most popular, while net banking was the least utilized.
+ 4. Demographic Spending Patterns:
+    - Occupation: Found that salaried IT professionals contributed to 45% of the total expenditure, business owners 17%, and government employees 7%.
+    - Age Group: Identified the 25-34 age group as the highest spenders (203 million), with those aged 45 and above spending the least (68 million).
+    - Marital Status and Gender: Observed that married individuals spent twice as much as singles, and males spent more than females.
+ 5. Geographical Analysis: Determined that Mumbai had the highest spending (172 million), while Hyderabad had the lowest (68 million).
+
+# Result
+- The detailed analysis provided Mitron Bank with valuable insights into the spending behaviours of their customers. The bank could now strategically design their new line of credit cards to cater to the most 
+  significant demographics and payment preferences, ensuring better market penetration and customer satisfaction.
+- This approach would likely increase their market share and strengthen their presence in the competitive financial sector.
